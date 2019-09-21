@@ -18,6 +18,6 @@ public class Solution {
             System.out.println(books[i]);
 
         }
-        scanner.close();
+        scanner.close();  //completed
     }
 }
